@@ -1,0 +1,39 @@
+#input-el{
+    padding: 10px;
+    width: 100%;
+    color: cadetblue;
+}
+#button-el{
+    padding :10px 20px;
+    margin-top: 4px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(16, 243, 16);
+    color: rgb(14, 0, 0);
+    border: none;
+    border-radius: 12px;
+}
+#delete-button{
+        padding :10px 20px;
+        margin-top: 4px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        background-color: rgb(16, 243, 16);
+        color: rgb(14, 0, 0);
+        border: none;
+        border-radius: 12px;
+}    
+body{
+    min-width: 500;
+}
+ul{
+    list-style: numbers;
+    font-family:'Times New Roman', Times, serif;
+    font-size: large;
+    padding-left: 20px;
+    padding-bottom: 20px;
+}
+li{
+    margin-top: 10px;
+    font-weight: 300;    
+    gap: 4px;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
